@@ -1,0 +1,10 @@
+html, body, #phaser-game {
+    height: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #eee;
+    font: caption;
+}
